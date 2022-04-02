@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "fb7942a1dba1bf7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "33a11317ef0dea7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "我的笔记/工作/2022-04.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61c955df7d91902d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b86dee9a8859e76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "998f47952b6ca30a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c02df3d122d38c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85469d6a337f0bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c4e82fb1174570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f199cdab5adab48c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "我的笔记/工作/2022-04.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "33a11317ef0dea7f",
+  "lastOpenFiles": [
+    "我的笔记/工作/2022-04.md",
+    "多租户改造方案.md",
+    "未命名.md"
+  ]
+}
