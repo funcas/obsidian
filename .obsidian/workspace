@@ -7,11 +7,10 @@
         "id": "764a5de272d4bfaf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "我的笔记/工作/Q1/注册登录安全需求.md",
-            "mode": "source",
-            "source": false
+            "file": "我的笔记/工作/Q1/企业操作.md",
+            "staged": false
           }
         }
       }
@@ -69,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "我的笔记/工作/Q1/注册登录安全需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,23 +77,31 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "0820f1adaae8470a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "764a5de272d4bfaf",
   "lastOpenFiles": [
-    "我的笔记/工作/Q1/注册登录安全需求.md",
-    "我的笔记/工作/01_Q2工作内容.md",
     "我的笔记/工作/Q1/消息三端.md",
-    "我的笔记/工作/Q1/企业操作.md",
-    "我的笔记/工作/技术债务/流程底层梳理，服务间交互优化.md",
-    "我的笔记/工作/Q1/流程3期.md",
+    "我的笔记/工作/Q1/注册登录安全需求.md",
     "我的笔记/工作/Q1/权限三端(运营平台）.md",
+    "我的笔记/工作/Q1/企业操作.md",
+    "我的笔记/工作/Q1/流程3期.md",
+    "我的笔记/工作/01_Q2工作内容.md",
+    "我的笔记/工作/技术债务/流程底层梳理，服务间交互优化.md",
     "我的笔记/工作/技术债务/未命名.md",
     "我的笔记/工作/2022-04.md",
     "多租户改造方案.md"
