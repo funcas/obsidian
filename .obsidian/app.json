@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "readableLineLength": false,
-  "lineWrap": false
+  "lineWrap": false,
+  "alwaysUpdateLinks": true
 }
