@@ -3,5 +3,6 @@
   "livePreview": true,
   "readableLineLength": false,
   "lineWrap": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }
